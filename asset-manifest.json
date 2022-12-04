@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jacquelinesspirit/static/css/main.073c9b0a.css",
+    "main.js": "/jacquelinesspirit/static/js/main.ecb787bb.js",
+    "static/js/787.7dacf9dc.chunk.js": "/jacquelinesspirit/static/js/787.7dacf9dc.chunk.js",
+    "static/media/logo.svg": "/jacquelinesspirit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jacquelinesspirit/index.html",
+    "main.073c9b0a.css.map": "/jacquelinesspirit/static/css/main.073c9b0a.css.map",
+    "main.ecb787bb.js.map": "/jacquelinesspirit/static/js/main.ecb787bb.js.map",
+    "787.7dacf9dc.chunk.js.map": "/jacquelinesspirit/static/js/787.7dacf9dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ecb787bb.js"
+  ]
+}
